@@ -1,3 +1,4 @@
+#!/bin/bash
 # Check how a certain .apk file (and its contents) are signed
 # dependent on jdk tool: jarsigner
 
