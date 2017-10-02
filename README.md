@@ -6,4 +6,6 @@ The script is dependent on:
   * jdk tool: jarsigner
   
 # Usage
+  ```bash
   ./check_apk_signature.sh <path to apk file>"
+  ```
